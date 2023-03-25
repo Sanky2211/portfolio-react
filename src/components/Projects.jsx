@@ -25,12 +25,12 @@ const Projects = () => {
               </span>
               <p className='text-center'>A Movie application built with React</p>
               <div className='pt-8 text-center'>
-                <a href='https://dashing-cat-2fce18.netlify.app/'  target="_blank">
+                <a href='https://dashing-cat-2fce18.netlify.app/'  target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/Sanky2211/react-movie-app'  target="_blank">
+                <a href='https://github.com/Sanky2211/react-movie-app'  target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -49,12 +49,12 @@ const Projects = () => {
               </span>
               <p className='text-center'>A Sample Event Orgnization Website built with HTML,CSS and JS</p>
               <div className='pt-8 text-center'>
-                <a href='https://boisterous-nougat-76b3f6.netlify.app/' target="_blank">
+                <a href='https://boisterous-nougat-76b3f6.netlify.app/' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/Sanky2211/Sample-event-org-website' target="_blank">
+                <a href='https://github.com/Sanky2211/Sample-event-org-website' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -73,12 +73,12 @@ const Projects = () => {
               </span>
               <p className='text-center'>A Tip Calculator built with HTML,CSS and JS</p>
               <div className='pt-8 text-center'>
-                <a href='https://classy-vacherin-a0822d.netlify.app/' target="_blank">
+                <a href='https://classy-vacherin-a0822d.netlify.app/' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/Sanky2211/Tip-calulator' target="_blank">
+                <a href='https://github.com/Sanky2211/Tip-calulator' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -97,7 +97,7 @@ const Projects = () => {
               </span>
               <p className='text-center'>One music subscription app built with React</p>
               <div className='pt-8 text-center'>
-                <a href="https://lucent-tanuki-5daeaf.netlify.app/" target="_blank">
+                <a href="https://lucent-tanuki-5daeaf.netlify.app/" target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
@@ -121,12 +121,12 @@ const Projects = () => {
               </span>
               <p className='text-center'>A Parallax website of cities built with HTML and CSS</p>
               <div className='pt-8 text-center'>
-                <a href='https://lighthearted-toffee-de5b28.netlify.app/' target="_blank">
+                <a href='https://lighthearted-toffee-de5b28.netlify.app/' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/Sanky2211/Parallax' target="_blank">
+                <a href='https://github.com/Sanky2211/Parallax' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -145,12 +145,12 @@ const Projects = () => {
               </span>
               <p className='text-center'>A Sample Registration Form built with HTML and CSS</p>
               <div className='pt-8 text-center'>
-                <a href='https://chic-bunny-228221.netlify.app/' target="_blank">
+                <a href='https://chic-bunny-228221.netlify.app/' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/Sanky2211/NS-project1' target="_blank">
+                <a href='https://github.com/Sanky2211/NS-project1' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
