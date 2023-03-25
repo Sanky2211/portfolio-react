@@ -102,7 +102,7 @@ const Projects = () => {
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/Sanky2211/React-Order-Summary---React-Basics-React-State-Events-Working-with-Fragments---91henyr2vfce' target="_blank">
+                <a href='https://github.com/Sanky2211/React-Order-Summary---React-Basics-React-State-Events-Working-with-Fragments---91henyr2vfce' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
